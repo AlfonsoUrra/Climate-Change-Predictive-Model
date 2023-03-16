@@ -1,4 +1,4 @@
-![image]("C:\Users\Usuario\Proyectos Python IronHack\Proyecto-Final-Iron\img\Imagen readme.jpg")
+![image]("https://github.com/AlfonsoUrra/Proyecto-Final-Iron/blob/main/img/Imagen%20readme.jpg")
 
 
 # Análisis de Cambio Climático y su impacto en la salud humana
