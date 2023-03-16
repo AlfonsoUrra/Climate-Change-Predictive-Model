@@ -1,3 +1,6 @@
+![image]("C:\Users\Usuario\Proyectos Python IronHack\Proyecto-Final-Iron\img\Imagen readme.jpg")
+
+
 # Análisis de Cambio Climático y su impacto en la salud humana
   Este proyecto tiene como objetivo analizar cómo el cambio climático ha afectado la salud humana y cómo se relaciona con factores como la temperatura global, el     deshielo y las emisiones de CO2. Además, se analizará la evolución de indicadores básicos de salud como la obesidad y la hipertensión, para determinar si hay algún patrón relacionado con el cambio climático.
 
