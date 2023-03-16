@@ -31,7 +31,7 @@
 
 4. Visualizar los resultados de los análisis en Tableau.
 
-5. Crear una aplicación web con Streamlit que permita clusterizar los países por similitudes y compartimentos, seleccionando seis variables para ello.
+5. Crear una aplicación web con Streamlit que permita clusterizar los países por similitudes y componentes, seleccionando seis variables para ello.
 
 # Metodología
 Para llevar a cabo este proyecto, se utilizó Python como lenguaje de programación. Los datos se analizaron y se procesaron utilizando diversas bibliotecas como Pandas, Numpy, Matplotlib, Seaborn y Scikit-learn.
